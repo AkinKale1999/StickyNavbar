@@ -1,4 +1,4 @@
-# Web Navigation with Hero Section (Projekt 26)
+# Web Navigation with Hero Section
 
 Dieses Projekt demonstriert eine einfache Webseitengestaltung mit einer festen Navigation und einem Hero-Bereich, der Text und Inhalte beinhaltet. Es nutzt HTML, CSS und JavaScript, um eine interaktive und ansprechende Benutzeroberfläche zu erstellen.
 
@@ -12,4 +12,4 @@ Dieses Projekt demonstriert eine einfache Webseitengestaltung mit einer festen N
 
 1. Klone das Repository oder lade die Dateien herunter:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/AkinKale1999/StickyNavbar.git
